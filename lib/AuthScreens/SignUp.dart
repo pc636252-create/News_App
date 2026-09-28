@@ -50,7 +50,7 @@ class SignUp extends GetView<SignUpController> {
                     Image.asset(
                       "assets/images/img.png",
                       width: Get.width*0.7,
-                      height: Get.height*0.12,
+                      height: Get.height*0.10,
                       fit: BoxFit.cover,
                     ),
                   ],
